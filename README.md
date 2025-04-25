@@ -7,7 +7,7 @@ Welcome to **Gameprojects** — a collection of simple Python games created usin
 ### 1. Snake Game
 A classic snake game where the snake grows longer as it eats food. The game ends when the snake hits the wall or itself.
 
-- Controls: Arrow keys to move
+- Controls: 'W','A','S','D' keys to move
 - Features: Score tracking, screen boundaries, game over message
 
 ### 2. Pong Game
